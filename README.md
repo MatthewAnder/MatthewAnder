@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatthewAnder aka Matthew Andersen
+- 👋 Hi, I’m @MatthewAnder aka Matthew Andersen Haryanto
 - 👀 I’m interested in Web Development 🌐 and Game Development with Unity 🎮
 - 🌱 I’m currently learning Svelte (JS Framework) and Unity
 - 💞️ I’m 16 and is currently exploring 👨‍💻
