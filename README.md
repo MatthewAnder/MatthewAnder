@@ -1,5 +1,5 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">, I'm <a href="https://matthewharyanto.com">Matthew</a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
-<h4>:fire: Passionate programmer | 🚀 Interests in Games, Websites, and Cybersecurity.</h4>
+<h4>:fire: Passionate programmer | 🚀 Interests in Games, Websites, and Graphics.</h4>
 
 ## :envelope: Let's Connect!
 [![Website Badge](https://img.shields.io/badge/Website-0A79DF?style=flat-square&logo=google-chrome&logoColor=white)](https://matthewharyanto.com)
